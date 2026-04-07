@@ -28,3 +28,11 @@ Plugins/*/Intermediate/
 # OS 생성 파일
 .DS_Store
 Thumbs.db
+
+# 일단 모든 Content 내부를 무시 (Lyra 관련 에셋 용량 이슈)
+Section02_Shooting/Content/*
+# 플러그인 전체 제외
+**/Plugins/
+
+# 공부 내용
+!Section02_Shooting/Content/Study/
