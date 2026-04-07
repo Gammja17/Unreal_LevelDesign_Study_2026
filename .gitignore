@@ -1,0 +1,30 @@
+# --- Unreal Engine Ignore Rules ---
+
+# 빌드 결과물 및 임시 실행 파일 (가장 용량을 많이 차지함)
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# 스크립트 및 에디터 설정 관련 임시 파일
+.vscode/
+.vs/
+*.sln
+*.suo
+*.pdb
+*.user
+
+# 플러그인 내의 임시 폴더
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+
+**/Binaries/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+
+# OS 생성 파일
+.DS_Store
+Thumbs.db
