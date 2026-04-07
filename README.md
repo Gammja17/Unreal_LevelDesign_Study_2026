@@ -1,6 +1,6 @@
 # Unreal Level Design Study 2026
 
-언리얼 레벨 디자인 스터디 기록
+언리얼 레벨 디자인 스터디 기록<br>
 강의를 수강하며 **Unreal Engine 5**를 이용한 **레벨 디자인 및 맵 구현 방법**을 학습합니다.
 <br><br>
 
